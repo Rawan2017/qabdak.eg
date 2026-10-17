@@ -4,7 +4,7 @@
 window.SITE_CONFIG = {
   // Microsoft Clarity (مجاني): clarity.microsoft.com ← New project ← Settings ← Overview ← Project ID
   // سيبه فاضي = مفيش أي تتبع بيشتغل.
-  clarityId: '',
+  clarityId: 'yz4cxpg2my',
 
   // رابط قناة تيليجرام أو واتساب لتنبيهات تغيّر الرسوم والشروط.
   // سيبه فاضي = السكشن مش هيظهر في الموقع.
