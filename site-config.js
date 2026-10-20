@@ -10,7 +10,12 @@ window.SITE_CONFIG = {
   // سيبه فاضي = السكشن مش هيظهر في الموقع.
   channelUrl: '',
 
-  instagram: 'https://www.instagram.com/qabdak.eg/'
+  instagram: 'https://www.instagram.com/qabdak.eg/',
+
+  // روابط إحالة (Affiliate). المفتاح = key الخدمة في الموقع. سيبه فاضي = الزرار مش بيظهر.
+  referrals: {
+    upwork: 'https://partners.upwork.com/cccdyhu7womm'
+  }
 };
 
 /* --- من هنا مفيش تعديل --- */
